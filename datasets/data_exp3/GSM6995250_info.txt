@@ -1,0 +1,7 @@
+药物：crizotinib
+细胞系：patient
+敏感细胞数：9456
+耐药细胞数：5934
+基因：33538
+样本：15390
+论文：Single-cell transcriptomic analysis uncovers intratumoral heterogeneity and drug-tolerant persister in ALK-rearranged lung adenocarcinoma
