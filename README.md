@@ -26,12 +26,12 @@ To setup the environment, install conda and run (Must run on servers with multip
 conda create --name <your_env_name> --file requirements.txt
 ```
 
-To train this model and obtain results, you need to download the dataset (Example: GDSC), place it in the datasets folder, and then run:
+To train the scAdaDrug model and obtain predicted results in target domain, you need to download the datasets (Example: GDSC), place it in the datasets folder, and then run:
 
 ```bash
 python train_2.py
 ```
-if you want to train baseline , run:
+if you want to train baseline model, please run
 ```bash
 python train_baseline.py
 ```
