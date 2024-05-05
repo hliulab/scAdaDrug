@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**scAdaDrug** is a multi-source adaptive weighting model to predict single-cell drug sensitivity.
+**scAdaDrug** is a multi-source domain adaptation with adaptively generated feature weights to predict single-cell drug sensitivity.
 
 ## Model architecture
 
@@ -36,7 +36,7 @@ if you want to train baseline model, please run
 python train_baseline.py
 ```
 
-if you want to train other datasets, you need to modify the ```data_loader.py``` section 
+if you want to train the model using other datasets, you need to modify the ```data_loader.py``` file. 
 
 ## Directory structure
 
