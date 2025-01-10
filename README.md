@@ -1,4 +1,4 @@
-# Predicting single-cell drug sensitivity by adaptive weighted feature for adversarial multi-source domain aaptation
+# Towards generalization of drug response prediction to single cells and patients utilizing importance-aware multi-source domain transfer learning
 
 ## Introduction
 
